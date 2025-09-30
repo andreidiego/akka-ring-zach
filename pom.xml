@@ -60,7 +60,7 @@
         <dependency>
             <groupId>com.typesafe.akka</groupId>
             <artifactId>akka-stream-kafka_2.12</artifactId>
-            <version>1.0-M1</version>
+            <version>4.0.2</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/com.typesafe.akka/akka-http-jackson-experimental -->
